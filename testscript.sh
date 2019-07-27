@@ -4,4 +4,4 @@ echo " code is pulled from github"
 echo "$parm is parameter"
 num=$(($firstnumber+$secondnumber))
 echo "$num"
-echo "testing whether hook is sucessful"
+echo "yeah hook is sucessful"
